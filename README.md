@@ -1,6 +1,6 @@
-# LearnIt
+# just-learning
 
-Welcome to my `LearnIt` repository! This repo is a collection of basic projects that I use to learn different kinds of technologies. Here, you'll find various projects and code snippets that help me understand and experiment with new tech.
+Welcome to `just-learning` repository! This repo is a collection of basic projects that I use to learn different kinds of technologies. Here, you'll find various projects and code snippets that help me understand and experiment with new tech.
 
 ## Table of Contents
 
