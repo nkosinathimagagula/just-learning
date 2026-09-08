@@ -33,3 +33,6 @@ out
 
 .env
 volume
+.terraform
+*.tfstate
+*.tfstate.backup
