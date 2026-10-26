@@ -16,6 +16,7 @@ members = [
     "my_crate",
     "smart-pointers",
     "drop-trait",
-    "deref"
+    "deref",
+    "reference-counting"
 ]
 resolver = "3"
