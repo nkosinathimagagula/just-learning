@@ -33,6 +33,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "deref"
+version = "0.1.0"
+
+[[package]]
 name = "drop-trait"
 version = "0.1.0"
 

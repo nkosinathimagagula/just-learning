@@ -15,6 +15,7 @@ members = [
     "iterators",
     "my_crate",
     "smart-pointers",
-    "drop-trait"
+    "drop-trait",
+    "deref"
 ]
 resolver = "3"
