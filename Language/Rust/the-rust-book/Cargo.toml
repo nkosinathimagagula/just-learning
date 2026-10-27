@@ -17,6 +17,7 @@ members = [
     "smart-pointers",
     "drop-trait",
     "deref",
-    "reference-counting"
+    "reference-counting",
+    "interior-mutability"
 ]
 resolver = "3"
