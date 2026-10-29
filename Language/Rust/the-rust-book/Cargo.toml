@@ -18,6 +18,7 @@ members = [
     "drop-trait",
     "deref",
     "reference-counting",
-    "interior-mutability"
+    "interior-mutability",
+    "reference-cycles"
 ]
 resolver = "3"

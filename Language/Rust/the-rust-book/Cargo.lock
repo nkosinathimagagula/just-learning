@@ -169,6 +169,10 @@ name = "reference-counting"
 version = "0.1.0"
 
 [[package]]
+name = "reference-cycles"
+version = "0.1.0"
+
+[[package]]
 name = "smart-pointers"
 version = "0.1.0"
 
